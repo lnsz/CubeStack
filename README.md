@@ -1,5 +1,6 @@
 # CubeStack
 ![Alt text](/Assets/logo2.jpg)
+
 Voxel based game written in Java and Processing. This was initially a project I worked on for a grade 12 computer science class. I kept working on it afterwards and made a lot of improvements to the point where it is now.
 
 
